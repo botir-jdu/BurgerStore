@@ -1,6 +1,7 @@
 let searchBtn = document.querySelector('#search-btn');
 let searchForm = document.querySelector('.header .search-form');
 
+// Search Button
 searchBtn.onclick = () =>{
    searchBtn.classList.toggle('fa-times');
    searchForm.classList.toggle('active');
@@ -11,6 +12,7 @@ searchBtn.onclick = () =>{
 let menuBtn = document.querySelector('#menu-btn');
 let navbar = document.querySelector('.header .navbar');
 
+// Menu Button
 menuBtn.onclick = () =>{
    menuBtn.classList.toggle('fa-times');
    navbar.classList.toggle('active');
