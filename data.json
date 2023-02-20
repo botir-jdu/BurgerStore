@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Go'sht Maydalagich",
+        "price": 5.5,
+        "image": "burger-1.png"
+    },
+    {
+        "id": 2,
+        "name": " Tanishing Jo Blek",
+        "price": 4,
+        "image": "burger-2.png"
+    },
+    {
+        "id": 3,
+        "name": "Meri Ivanna",
+        "price": 3.7,
+        "image": "burger-3.png"
+    },
+    {
+        "id": 4,
+        "name": "Mahalliy Ochko'z",
+        "price": 7.5,
+        "image": "burger-4.png"
+    },
+    {
+        "id": 5,
+        "name": "Shef Buger",
+        "price": 8.5,
+        "image": "burger-5.png"
+    },
+    {
+        "id": 6,
+        "name": "Xuddi shu Burger",
+        "price": 2.2,
+        "image": "burger-6.png"
+    },
+    {
+        "id": 7,
+        "name": "Chizburger",
+        "price": 3.7,
+        "image": "burger-7.png"
+    },
+    {
+        "id": 8,
+        "name": "Gamburger",
+        "price": 3.4,
+        "image": "burger-8.png"
+    },
+    {
+        "id": 9,
+        "name": "Pushti Flamingo",
+        "price": 3.4,
+        "image": "burger-9.png"
+    },
+    {
+        "id": 10,
+        "name": "Daydi",
+        "price": 4.5,
+        "image": "burger-10.png"
+    }
+  ]
+  
