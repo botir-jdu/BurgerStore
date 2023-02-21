@@ -121,7 +121,7 @@ function addProductToCart(title, price, productImg){
   let cartItemsNames = cartItems.getElementsByClassName("cart-burger-title")
   for(let i = 0; i <  cartItemsNames.length; i++){
     if(cartItemsNames[i].innerText == title){
-      alert('You have already add this burger to cart!')
+      // alert('You have already add this burger to cart!')
       return
     }
   }
